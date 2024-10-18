@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+seaborn
+matplotlib
+
+Para rodar use esse comando:
+streamlit run app.py
