@@ -5,5 +5,3 @@ plotly
 scikit-learn
 seaborn
 matplotlib
-
-streamlit run app.py
